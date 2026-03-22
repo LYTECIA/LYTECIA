@@ -2,7 +2,7 @@
 
 🎓 Second-year Computer Science student  
 💻 Interested in software engineering and web development  
-✈️ Passionate about aviation and technology  
+✈️🚀 Passionate about aviation, space, and technology 
 
 ---
 
@@ -16,8 +16,7 @@ I am a computer science student currently strengthening my foundations in:
 
 Alongside my studies, I enjoy building personal projects and participating in the tech community through volunteering and events.
 
-My long-term goal is to contribute to innovative digital tools, especially in industries where technology has a strong impact such as aviation.
-
+My long-term goal is to contribute to innovative digital tools, especially in high-impact industries such as aviation and space.
 ---
 
 ## 🛠️ Technologies
