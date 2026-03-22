@@ -1,7 +1,7 @@
 # Hi, I'm Lytecia 👋
 
 🎓 Second-year Computer Science student  
-💻 Interested in software engineering and web development  
+💻 Interested in software engineering, systems architecture, and networking
 ✈️🚀 Passionate about aviation, space, and technology 
 
 ---
